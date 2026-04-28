@@ -1,6 +1,5 @@
 """
 TaskFlow API - Sistema de Gerenciamento de Tarefas
-Autor: Seu Nome
 Tecnologias: Python, Flask, SQLite, JWT
 """
 
